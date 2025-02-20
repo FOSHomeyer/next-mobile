@@ -21,7 +21,7 @@ body {
 }
 
 .menu-header{
-  @apply border-slate-900 text-white w-full h-44 items-center justify-center lg:flex hidden
+  @apply  text-white w-full h-44 items-center justify-center lg:flex hidden
 }
 
 .menu-nav{
@@ -29,5 +29,5 @@ body {
 }
 
 .menu-item{
-  @apply border hover:bg-slate-700 cursor-pointer duration-300 p-2 px-3
+  @apply hover:bg-slate-700 hover:border hover:border-violet-700 hover:animate-pulse cursor-pointer duration-300 p-2 px-3
 }

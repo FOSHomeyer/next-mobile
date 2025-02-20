@@ -1,3 +1,8 @@
+#### Paginas do projeto
+
+<img src="./screens/page1.png" alt="page1" />
+<img src="./screens/page2.png" alt="page2" />
+
 #### Criando o projeto
 
 * criando o projeto next
